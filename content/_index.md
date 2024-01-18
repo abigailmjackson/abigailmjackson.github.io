@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: About Abigail
+      title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   # - block: skills
@@ -209,17 +209,17 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  # - block: collection
-  #   id: featured
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     columns: '2'
-  #     view: card
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   # - block: collection
   #   content:
   #     title: Recent Publications
@@ -255,7 +255,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        ''
+        
       # Contact (add or remove contact options as necessary)
       email: abigaimj@mit.edu
       # phone: 888 888 88 88
