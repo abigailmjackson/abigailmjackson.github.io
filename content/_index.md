@@ -65,7 +65,7 @@ sections:
         - title: PhD Student
           company: Alejandro Balazs Lab, The Ragon Institute of MGH, Harvard, and MIT
           company_url: https://balazslab.partners.org/
-          company_logo: images/ragon-logo.png
+          # company_logo: images/ragon-logo.png
           location: Cambridge, MA
           date_start: '2023-07-01'
           date_end: ''
@@ -78,7 +78,7 @@ sections:
         - title: PhD Student
           company: Debora Marks Lab, Harvard Medical School
           company_url: https://www.deboramarkslab.com/
-          company_logo: images/hms-logo.png
+          # company_logo: images/hms-logo.png
           location: Cambridge, MA
           date_start: '2023-12-01'
           date_end: ''
@@ -91,7 +91,7 @@ sections:
         - title: Research Technician, Andrew Ward Lab
           company: The Scripps Research Institute
           company_url: https://ward.scripps.edu/
-          company_logo: images/scripps-logo.png
+          # company_logo: images/scripps-logo.png
           location: La Jolla, CA
           date_start: '2020-08-01'
           date_end: '2022-08-31'
@@ -99,7 +99,7 @@ sections:
         - title: Laboratory Intern
           company: Lonza Biologics
           company_url: https://www.lonza.com/
-          company_logo: images/lonza-logo.svg
+          # company_logo: images/lonza-logo.svg
           location: Portsmouth, NH
           date_start: '2018-05-01'
           date_end: '2019-08-31'
