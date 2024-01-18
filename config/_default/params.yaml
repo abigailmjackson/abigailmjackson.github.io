@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    description: 'PhD Student, Harvard-MIT Health Sciences and Technology.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Abigail M Jackson'
     license:
       enable: true
       allow_derivatives: false
