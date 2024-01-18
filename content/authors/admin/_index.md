@@ -69,7 +69,7 @@ skills:
         percent: ''
         icon: ''
         icon_pack: ''
-      - name: C''
+      - name: ''
         description: ''
         percent: ''
         icon: ''
