@@ -63,9 +63,9 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: PhD Student
-          company: Alejandro Balazs Lab, The Ragon Institute
+          company: Alejandro Balazs Lab, The Ragon Institute of MGH, Harvard, and MIT
           company_url: https://balazslab.partners.org/
-          company_logo: org-gc
+          company_logo: images/ragon-logo.png
           location: Cambridge, MA
           date_start: '2023-07-01'
           date_end: ''
@@ -76,9 +76,9 @@ sections:
           #     * Modelling
           #     * Deploying
         - title: PhD Student
-          company: Debora Marks Lab, HMS
+          company: Debora Marks Lab, Harvard Medical School
           company_url: https://www.deboramarkslab.com/
-          company_logo: org-gc
+          company_logo: images/hms-logo.png
           location: Cambridge, MA
           date_start: '2023-12-01'
           date_end: ''
@@ -91,7 +91,7 @@ sections:
         - title: Research Technician, Andrew Ward Lab
           company: The Scripps Research Institute
           company_url: https://ward.scripps.edu/
-          company_logo: org-x
+          company_logo: images/scripps-logo.png
           location: La Jolla, CA
           date_start: '2020-08-01'
           date_end: '2022-08-31'
@@ -99,7 +99,7 @@ sections:
         - title: Laboratory Intern
           company: Lonza Biologics
           company_url: https://www.lonza.com/
-          company_logo: org-x
+          company_logo: images/lonza-logo.svg
           location: Portsmouth, NH
           date_start: '2018-05-01'
           date_end: '2019-08-31'
@@ -255,7 +255,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        ''
       # Contact (add or remove contact options as necessary)
       email: abigaimj@mit.edu
       # phone: 888 888 88 88
