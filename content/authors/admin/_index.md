@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Medical Engineering and Medical Physics, Harvard-MIT Health Sciences and Technology 
+role: PhD Student in Medical Engineering and Medical Physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -40,45 +40,45 @@ education:
       institution: University of Southern California
       year: 2020
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: ''
-    items:
-      - name: ''
-        description: ''
-        percent: ''
-        icon: ''
-        icon_pack: ''
-      - name: ''
-        description: ''
-        percent: ''
-        icon: ''
-        icon_pack: ''
-      - name: ''
-        description: ''
-        percent: ''
-        icon: ''
-        icon_pack: ''
-  - name: ''
-    color: ''
-    color_border: ''
-    items:
-      - name: ''
-        description: ''
-        percent: ''
-        icon: ''
-        icon_pack: ''
-      - name: ''
-        description: ''
-        percent: ''
-        icon: ''
-        icon_pack: ''
-      - name: ''
-        description: ''
-        percent: ''
-        icon: ''
-        icon_pack: ''
+# # Skills
+# # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# skills:
+#   - name: ''
+#     items:
+#       - name: ''
+#         description: ''
+#         percent: ''
+#         icon: ''
+#         icon_pack: ''
+#       - name: ''
+#         description: ''
+#         percent: ''
+#         icon: ''
+#         icon_pack: ''
+#       - name: ''
+#         description: ''
+#         percent: ''
+#         icon: ''
+#         icon_pack: ''
+#   - name: ''
+#     color: ''
+#     color_border: ''
+#     items:
+#       - name: ''
+#         description: ''
+#         percent: ''
+#         icon: ''
+#         icon_pack: ''
+#       - name: ''
+#         description: ''
+#         percent: ''
+#         icon: ''
+#         icon_pack: ''
+#       - name: ''
+#         description: ''
+#         percent: ''
+#         icon: ''
+#         icon_pack: ''
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -97,18 +97,18 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=IphPKhMAAAAJ&hl=en&oi=ao
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/abigailmjackson
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/abigailmjackson
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/abigailmjackson16/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: static/uploads/Jackson_Abigail_CV.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: static/uploads/Jackson_Abigail_CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
