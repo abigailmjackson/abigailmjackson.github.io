@@ -32,7 +32,6 @@ interests:
   - Viral Evolution
   - Vaccines and Gene Therapy
   - Predictive Machine Learning
-  icon_pack: arrow-right-circle
 
 # Education to show in About widget
 education:
