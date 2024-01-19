@@ -79,7 +79,7 @@ sections:
           company: Debora Marks Lab, Harvard Medical School
           company_url: https://www.deboramarkslab.com/
           # company_logo: images/hms-logo.png
-          location: Cambridge, MA
+          location: Boston, MA
           date_start: '2023-12-01'
           date_end: ''
           # description: |2-
