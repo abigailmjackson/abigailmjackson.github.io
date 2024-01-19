@@ -22,7 +22,7 @@ role: PhD Student in Medical Engineering and Medical Physics
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Harvard-MIT Health Sciences and Technology
-    url: https://www.https://hst.mit.edu/
+    url: https://hst.mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' 
